@@ -1,2 +1,2 @@
-# human-face-mask-detection-python
+# human-face-mask-detection-deep-learning-python
 This project is about detection of Face Mask with Python, OpenCV and MobileNet using Transfer Learning in Deep Neural Networks.
